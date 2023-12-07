@@ -10,3 +10,11 @@ here is a sequenced picture
 String name= " Borelli ! ";
 System.out.println(name);
 ```
+
+- [x] Are you java dev
+- [ ] Are you javaScript dev
+- [x] Men ? 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
